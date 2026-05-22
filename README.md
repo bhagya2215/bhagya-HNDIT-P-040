@@ -1,1 +1,3 @@
-# bhagya-HNDIT-P-040
+My Name: Bhagya
+Course : HNDIT
+This is my GitHub lab work.
